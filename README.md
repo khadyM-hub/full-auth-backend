@@ -1,2 +1,2 @@
-# Group Bravi Full-auth API backend
+# Group Delta Full-auth API backend
 # Postgress
